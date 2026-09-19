@@ -1,0 +1,17 @@
+activity,activity_name,declared_date,first_event_date,lag_days
+A01,Fault report issued,2011-12-21,2011-12-21,0
+A02,Permit approval,2011-12-21,2011-12-21,0
+A03,Supervisory unit review,2011-12-21,2011-12-21,0
+A04,Work request receipt (Division),2011-12-25,2011-12-25,0
+A05,Work request receipt (Department),2011-12-21,2011-12-21,0
+A06,Work request receipt (Technician),2011-12-21,2011-12-21,0
+A07,Isolation and work authorization,2011-12-26,2011-12-26,0
+A08,Maintenance execution,2011-12-21,2011-12-21,0
+A09,Work completion approval,2011-12-21,2011-12-21,0
+A10,Work report approval,2012-03-02,2012-03-02,0
+A11,Work report (Department head),2012-02-16,2012-02-21,5
+A12,Receipt acknowledgement (Division),2011-12-31,2012-01-05,5
+A13,Receipt acknowledgement (Department),2012-02-07,2012-02-12,5
+A14,Receipt acknowledgement (Technician),2012-02-07,2012-02-12,5
+A15,Supervisory unit attendance,2011-12-21,2011-12-21,0
+A16,Safety attendance,2011-12-22,2011-12-22,0

@@ -1,0 +1,16 @@
+# The generator, tvd_curve.py and analyse_reference_results.py need nothing
+# beyond the Python standard library. The lines below are for the experiments
+# that run the reference detection algorithms.
+#
+#   git clone https://github.com/cpitsch/cdrift-evaluation
+#
+POT
+strsimpy
+ruptures
+hotelling
+pulp
+scikit-learn
+deprecation
+pyarrow
+pm4py
+pandas

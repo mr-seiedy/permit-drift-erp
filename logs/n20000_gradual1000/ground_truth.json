@@ -1,0 +1,26 @@
+{
+ "generator_version": "2026-09-18a",
+ "seed": 7,
+ "cases": 20000,
+ "events": 223146,
+ "drifts": [
+  {
+   "id": "A",
+   "type": "replacement",
+   "case_index": 3600,
+   "timestamp": "2012-03-18T02:24:19",
+   "shape": "sudden",
+   "description": "two activities cease to be recorded, two begin"
+  },
+  {
+   "id": "C",
+   "type": "addition",
+   "case_index": 10680,
+   "timestamp": "2012-09-10T02:41:39",
+   "shape": "gradual",
+   "transition_cases": 1000,
+   "description": "five control and documentation steps inserted; the operational backbone is unchanged"
+  }
+ ],
+ "warning": "metadata.csv declares four of the added activities three years before their first event. Evaluating a detector against the declared dates rather than these case indices reproduces the error this log exists to demonstrate."
+}
